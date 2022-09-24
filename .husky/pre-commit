@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+printf "\n\n🚧🚧🚧🚧 Test Code 🚧🚧🚧🚧\n\n"
+yarn test
+
+printf "\n\n📦📦📦📦 Lint Staged 📦📦📦📦\n\n"
+yarn lint-staged

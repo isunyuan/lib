@@ -1,2 +1,3 @@
 # lib
-Lib commonly used in development
+
+> 一个用于日常开发的工具库

@@ -1,0 +1,6 @@
+/logs
+/node_modules
+/lib
+/src/assets/js
+/package-lock.json
+.DS_Store
